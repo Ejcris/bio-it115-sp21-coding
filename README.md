@@ -1,2 +1,6 @@
 # bio-it115-sp21-coding
-A place to store mu bio information 
+A place to store my bio information 
+
+  My name is EdwardJeremy Crianto and I am 20 years old. I graduted high school in 2018, then started working right after. Most of my work experince consist of being in the food service industry and automotive business. All of this experince has helped me gain new skills with customer service and solving problems. I can confidently say that I have the skill to present myself in a welcoming way. 
+  Skills that I would like to present are trainable and the ability to adapt to situations. These skills are not perfect, I believe these are where my strengths will show. The first skill is trainable because I can follow directions and I can take critcism very well. I believe being able to adapt different situations are important because I am able to show that I can switch my thinking with a snap of a finger. I have many more skills I would like to display, these two are where I believe companies would like to have me on their teams. 
+  Currently I am enrolled into Seattle Central Community College through the Year Up program. I am learning about Software Development and Project Management. A goal of mine is to gradute, get into an internship, and have a great career in this profession. I do not have much experience in this field and I am hopeful that I can become a great professional after this program. I believe a great skill set and I would like to apply these set of skills to a market that is open and within my interest. 
